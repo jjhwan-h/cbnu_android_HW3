@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW 4-4</string>
+    <string name="배경색변경">배경색변경</string>
+    <string name="버튼변경">버튼변경</string>
+</resources>
